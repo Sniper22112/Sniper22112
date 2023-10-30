@@ -1,5 +1,5 @@
--- Yo! I am Sniper221102, a 17 year old college student currently studying my second year in games design.
--- Within this course are things such as; Coding, Modelling, Animation, Art and VFX, although I am most passionate about coding.
--- I did initially learn coding in C++, but have transferred my skills into LUAU in order to program roblox games!
--- As of right now, I have not worked on any projects, but I am certainly looking to change that.
--- Therefore, if you like what you see on my portfolio be sure to hit me up at "sniper22112" on discord.
+- Yo! I am Sniper221102, a 17 year old college student currently studying my second year in games design.
+- Within this course are things such as; Coding, Modelling, Animation, Art and VFX, although I am most passionate about coding.
+- I did initially learn coding in C++, but have transferred my skills into LUAU in order to program roblox games!
+- As of right now, I have not worked on any projects, but I am certainly looking to change that.
+- Therefore, if you like what you see on my portfolio be sure to hit me up at "sniper22112" on discord.
